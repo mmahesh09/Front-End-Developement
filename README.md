@@ -38,10 +38,14 @@ Front-end development is the process of building the user interface (UI) and use
 
 
 
-## 🏗️ Basic HTML Boilerplate  
+## 🏗️ Basic Front End Boilerplates
+
+# HTML
+
+HTML (HyperText Markup Language) is the foundation of web development and is used to structure web pages.
 
 <details>
-  <summary>Click to view HTML code</summary>
+  <summary> Basic HTML code</summary>
 
 ```html
 <!DOCTYPE html>
@@ -49,25 +53,11 @@ Front-end development is the process of building the user interface (UI) and use
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="A basic HTML boilerplate template">
-    <title>My Website</title>
-    <link rel="stylesheet" href="styles.css"> <!-- Link to external CSS -->
-    <script defer src="script.js"></script> <!-- Link to external JavaScript -->
+    <title>HTML Example</title>
 </head>
 <body>
-
-    <header>
-        <h1>Welcome to My Website</h1>
-        <button id="clickMe">Click Me</button>
-    </header>
-
-    <main>
-        <p>This is a basic HTML boilerplate.</p>
-    </main>
-
-    <footer>
-        <p>&copy; 2025 My Website. All rights reserved.</p>
-    </footer>
-
+    <h1>Welcome to HTML</h1>
+    <p>This is a simple HTML structure.</p>
 </body>
 </html>
+
