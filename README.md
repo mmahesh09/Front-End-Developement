@@ -8,10 +8,11 @@ Popular front-end frameworks and libraries include **React**, **Vue.js**, and **
 
 ## 📊 Repository Statistics
 
-![GitHub forks](https://img.shields.io/github/forks/mmahesh09/Front-End-Developement?style=for-the-badge)
-![GitHub watchers](https://img.shields.io/github/watchers/mmahesh09/Front-End-Developement?style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mmahesh09/Front-End-Developement?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/mmahesh09/Front-End-Developement?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/mmahesh09/Front-End-Developement?style=flat-square&logo=github&logoColor=white&color=2088FF)
+![GitHub watchers](https://img.shields.io/github/watchers/mmahesh09/Front-End-Developement?style=flat-square&logo=github&logoColor=white&color=2088FF)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mmahesh09/Front-End-Developement?style=flat-square&logo=github&logoColor=white&color=2088FF)
+![GitHub issues](https://img.shields.io/github/issues/mmahesh09/Front-End-Developement?style=flat-square&logo=github&logoColor=white&color=2088FF)
+![GitHub stars](https://img.shields.io/github/stars/mmahesh09/Front-End-Developement?style=flat-square&logo=github&logoColor=white&color=2088FF)
 
 
 
@@ -32,10 +33,10 @@ Popular front-end frameworks and libraries include **React**, **Vue.js**, and **
 
 ## 🏗️ Front-End Code Snippets
 
-### 📌 Basic HTML Structure
+### 📌 Basic Code Snippets
 
 <details>
-  <summary>Click to view HTML Code</summary>
+<summary><code>HTML</code></summary>
 
 ```html
 <!DOCTYPE html>
@@ -50,3 +51,33 @@ Popular front-end frameworks and libraries include **React**, **Vue.js**, and **
     <p>This is a simple HTML structure.</p>
 </body>
 </html>
+```
+</details>
+
+<details>
+<summary><code>CSS</code></summary>
+    
+``` styles.css 
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+h1 {
+    color: blue;
+}
+
+```
+</details>
+
+<details>
+<summary><code>JavaScript</code></summary>
+    
+
+``` script.js
+document.addEventListener("DOMContentLoaded", function() {
+    alert("JavaScript Loaded!");
+});
+
+```
+</details>
