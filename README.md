@@ -7,16 +7,6 @@ Popular front-end frameworks and libraries include **React**, **Vue.js**, and **
 >" India, front-end developers earn an average annual salary of ₹6,16,835, with entry-level positions starting around ₹1.2 lakh per year."
 
 
-## 📊 Repository Statistics
-
-![GitHub forks](https://img.shields.io/github/forks/mmahesh09/Front-End-Developement?style=flat-square&logo=github&logoColor=white&color=2088FF)
-![GitHub watchers](https://img.shields.io/github/watchers/mmahesh09/Front-End-Developement?style=flat-square&logo=github&logoColor=white&color=2088FF)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mmahesh09/Front-End-Developement?style=flat-square&logo=github&logoColor=white&color=2088FF)
-![GitHub issues](https://img.shields.io/github/issues/mmahesh09/Front-End-Developement?style=flat-square&logo=github&logoColor=white&color=2088FF)
-![GitHub stars](https://img.shields.io/github/stars/mmahesh09/Front-End-Developement?style=flat-square&logo=github&logoColor=white&color=2088FF)
-
-
-
 ## 🚀 Technologies Used  
 
 <div>
@@ -30,6 +20,23 @@ Popular front-end frameworks and libraries include **React**, **Vue.js**, and **
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="Tailwind CSS" />
 </div>
 
+### Front End
+
+| Technology      | Description                                   | Official Website                |
+|---------------|--------------------------------|--------------------------------|
+| **HTML**       | Markup language for structuring web content | [w3.org](https://www.w3.org/)  |
+| **CSS**        | Stylesheet language for designing web pages | [w3.org](https://www.w3.org/)  |
+| **JavaScript** | Scripting language for dynamic content      | [javascript.com](https://www.javascript.com/) |
+| **React**      | JavaScript library for UI development       | [react.dev](https://react.dev/) |
+| **Vue.js**     | Progressive JavaScript framework           | [vuejs.org](https://vuejs.org/) |
+| **Angular**    | TypeScript-based front-end framework       | [angular.io](https://angular.io/) |
+| **Bootstrap**  | CSS framework for responsive design        | [getbootstrap.com](https://getbootstrap.com/) |
+| **Tailwind CSS** | Utility-first CSS framework            | [tailwindcss.com](https://tailwindcss.com/) |
+| **Sass**       | CSS preprocessor for advanced styling      | [sass-lang.com](https://sass-lang.com/) |
+| **Next.js**    | React framework for server-side rendering  | [nextjs.org](https://nextjs.org/) |
+| **Gatsby**     | Static site generator for React           | [gatsbyjs.com](https://www.gatsbyjs.com/) |
+| **Webpack**    | JavaScript module bundler                 | [webpack.js.org](https://webpack.js.org/) |
+| **Vite**       | Next-gen front-end tool for fast development | [vitejs.dev](https://vitejs.dev/) |
 
 
 ## 🏗️ Front-End Code Snippets
