@@ -17,19 +17,6 @@ Front-end development is the process of building the user interface (UI) and use
 
 
 
-## 🎯 Main Skills in Front-End Development  
-
-### 📌 1. HTML (HyperText Markup Language)  
-- Structures the content of web pages  
-- Defines elements like headings, paragraphs, lists, and links  
-
-### 🎨 2. CSS (Cascading Style Sheets)  
-- Styles and designs web pages  
-- Controls layout, colors, fonts, and responsiveness  
-
-### ⚡ 3. JavaScript  
-- Adds interactivity and dynamic behavior  
-- Enables animations, event handling, and API communication
 
 ## Important Technology Used in Front end
 
