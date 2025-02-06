@@ -29,7 +29,26 @@ Front-end development is the process of creating the **visual** and **interactiv
 
 ### ⚡ 3. JavaScript  
 - Adds interactivity and dynamic behavior  
-- Enables animations, event handling, and API communication  
+- Enables animations, event handling, and API communication
+
+## Important Technology Used in Front end
+
+| Technology      | Description                                   | Official Website                |
+|---------------|--------------------------------|--------------------------------|
+| **HTML**       | Markup language for structuring web content | [w3.org](https://www.w3.org/)  |
+| **CSS**        | Stylesheet language for designing web pages | [w3.org](https://www.w3.org/)  |
+| **JavaScript** | Scripting language for dynamic content      | [javascript.com](https://www.javascript.com/) |
+| **React**      | JavaScript library for UI development       | [react.dev](https://react.dev/) |
+| **Vue.js**     | Progressive JavaScript framework           | [vuejs.org](https://vuejs.org/) |
+| **Angular**    | TypeScript-based front-end framework       | [angular.io](https://angular.io/) |
+| **Bootstrap**  | CSS framework for responsive design        | [getbootstrap.com](https://getbootstrap.com/) |
+| **Tailwind CSS** | Utility-first CSS framework            | [tailwindcss.com](https://tailwindcss.com/) |
+| **Sass**       | CSS preprocessor for advanced styling      | [sass-lang.com](https://sass-lang.com/) |
+| **Next.js**    | React framework for server-side rendering  | [nextjs.org](https://nextjs.org/) |
+| **Gatsby**     | Static site generator for React           | [gatsbyjs.com](https://www.gatsbyjs.com/) |
+| **Webpack**    | JavaScript module bundler                 | [webpack.js.org](https://webpack.js.org/) |
+| **Vite**       | Next-gen front-end tool for fast development | [vitejs.dev](https://vitejs.dev/) |
+
 
 
 ## 🏗️ Basic HTML Boilerplate  
