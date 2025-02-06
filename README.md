@@ -99,3 +99,74 @@ document.addEventListener("DOMContentLoaded", function() {
   export default App;
 ```
 </details>
+
+<details>
+  <summary><code>AngularJS</code></summary>
+
+  ```ts
+  // app.component.ts
+  import { Component } from '@angular/core';
+
+  @Component({
+    selector: 'app-root',
+    template: `<h1>Hello, Angular!</h1>`,
+  })
+  export class AppComponent { }
+```
+</details>
+
+<details>
+  <summary><code>Vue.js</code></summary>
+
+  ```vue
+  <template>
+    <h1>Hello, Vue!</h1>
+  </template>
+
+  <script>
+  export default {
+    name: "App"
+  };
+  </script>
+```
+</details>
+
+<details>
+  <summary><code>Tailwind CSS</code></summary>
+
+  ```html
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body class="flex items-center justify-center h-screen bg-gray-100">
+    <h1 class="text-3xl font-bold text-blue-500">Hello, Tailwind CSS!</h1>
+  </body>
+  </html>
+```
+</details>
+
+<details>
+  <summary><code>Bootstrap</code></summary>
+
+  ```html
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bootstrap Example</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container text-center">
+      <h1 class="mt-5">Hello, Bootstrap!</h1>
+      <button class="btn btn-primary">Click Me</button>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  </body>
+  </html>
+```
+</details>
+
