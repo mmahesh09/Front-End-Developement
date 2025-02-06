@@ -4,6 +4,7 @@ Front-end development focuses on building the user interface (UI) and user exper
 
 Popular front-end frameworks and libraries include **React**, **Vue.js**, and **Angular**. Styling tools like **Bootstrap**, **Tailwind CSS**, and **Sass** enhance design and responsiveness.
 
+>" India, front-end developers earn an average annual salary of ₹6,16,835, with entry-level positions starting around ₹1.2 lakh per year."
 
 
 ## 📊 Repository Statistics
