@@ -1,6 +1,6 @@
 # Front-End Development
 
-Front-end development is the process of creating the **visual** and **interactive** parts of a website or web application that users see and interact with. It focuses on **User Interface (UI)** and **User Experience (UX)** using the following technologies:
+Front-end development is the process of building the user interface (UI) and user experience (UX) of a website or web application. It involves coding the visual elements, layout, and interactive features that users see and interact with in a browser. Developers use HTML for structure, CSS for styling, and JavaScript for interactivity. Popular front-end frameworks and libraries include React, Vue.js, and Angular. Tools like Bootstrap, Tailwind CSS, and Sass enhance design and responsiveness. Front-end developers ensure cross-browser compatibility, performance optimization, and accessibility. Their goal is to create seamless, engaging, and user-friendly web experiences across different devices and screen sizes.
 
 ## 🚀 Technologies Used  
 
