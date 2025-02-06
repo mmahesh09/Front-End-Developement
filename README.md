@@ -40,8 +40,6 @@ Front-end development is the process of building the user interface (UI) and use
 
 ## 🏗️ Basic Front End Boilerplates
 
-# HTML
-
 HTML (HyperText Markup Language) is the foundation of web development and is used to structure web pages.
 
 <details>
@@ -60,4 +58,22 @@ HTML (HyperText Markup Language) is the foundation of web development and is use
     <p>This is a simple HTML structure.</p>
 </body>
 </html>
+</details> ```
 
+# CSS
+
+CSS (Cascading Style Sheets) is used for designing and styling web pages.
+
+<details>
+  <summary>Click to view CSS code</summary>
+
+```css
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+h1 {
+    color: blue;
+}
